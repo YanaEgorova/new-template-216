@@ -74,7 +74,7 @@
     height: 30rem;
     background-color: var(--main-bg-color);
     padding: .5rem;
-    border: .3rem solid rgba(157, 115, 243, .3);
+    border: .3rem solid var(--second-brand-color);
     border-radius: 1rem;
 }
 .product__img-box .img {

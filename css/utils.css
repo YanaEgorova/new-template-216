@@ -190,7 +190,7 @@ body.error-active .error__overlay {
   transition: all .3s ease-in-out;
   color: var(--sub-text-color);
   border-radius: 5rem;
-  background-image: linear-gradient(to right, #6871dd,#9d73f3);
+  background-image: linear-gradient(to right, var(--third-brand-color), var(--second-brand-color));
   border: .2rem solid rgba(255, 255, 255, .6);
 } 
 
