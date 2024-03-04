@@ -305,6 +305,8 @@
     .policy__block--top {
         margin-bottom: 0;
         margin-right: 10rem;
+
+        margin: 0 auto;
     }
     .policy__box {
         display: flex;
