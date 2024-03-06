@@ -3,6 +3,7 @@ body.open-menu {
 }
 .header__wrapper {
     position: relative;
+    background-color: var(--first-brand-color);
 }
 .header__top {
     display: flex;
